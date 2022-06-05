@@ -1,0 +1,30 @@
+Check In Date: 10/4/2018 12:00:00 AM
+Check Out Date:11/4/2018 12:00:00 AM
+Name:
+I/C Number:
+Phone Number:
+Room type: Two Bedroom Suite
+Room Quantity:1
+Nights :1
+Grand total: RM611
+
+Check In Date: 13/4/2018 12:00:00 AM
+Check Out Date:18/4/2018 12:00:00 AM
+Name:
+I/C Number:
+Phone Number:
+Room type: 3 Bedroom Suite
+Room Quantity:1
+Nights :5
+Grand total: RM3790
+
+Check In Date: 13/4/2018 12:00:00 AM
+Check Out Date:14/4/2018 12:00:00 AM
+Name:
+I/C Number:
+Phone Number:
+Room type: 3 Bedroom Suite
+Room Quantity:1
+Nights :1
+Grand total: RM758
+
