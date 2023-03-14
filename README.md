@@ -1,5 +1,5 @@
 # ColmarTropicalReservationSystem_PP_HND
-Project Name: **Colmar Tropical Reservation System**
+Project Name: **Colmar Tropical Hotel Reservation System**
 
 The System was Created from **March until April 2018**
 
