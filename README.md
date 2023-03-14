@@ -1,7 +1,7 @@
 # ColmarTropicalReservationSystem_PP_HND
 Project Name: **Colmar Tropical Hotel Reservation System**
 
-The System was Created from **March until April 2018**
+This system was created from **March until April 2018**
 
 Description : **A simple hotel reservation system with simple graphic user interface. The system allow users to book hotel, view receipt and view report. This system is created for Procedural Programming subject during semester 2 of Higher National Diploma.**
 
